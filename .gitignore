@@ -1,0 +1,3 @@
+# .gitignore 내용
+.env
+last_df.csv
